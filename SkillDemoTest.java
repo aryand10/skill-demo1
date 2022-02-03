@@ -5,7 +5,7 @@ public class SkillDemoTest {
 
     @Test
     public void testAdd() {
-        assertEquals(3, SkillDemo.add(1, 1)); //Will fail initially
+        assertEquals(2, SkillDemo.add(1, 1)); //Will pass now
     }
     
 }
